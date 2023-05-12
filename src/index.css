@@ -1,0 +1,23 @@
+.roomfac {
+    display: flex;
+    width: 100%;
+    max-width: 60%;
+    margin: 0 auto;
+    justify-content: center;
+}
+.col-6 {
+    flex: auto;
+    width: 50%;
+    height: 400px;
+    outline: thin solid #0d0e0d;
+    
+}
+.search{
+    background-color: brown;
+    width: 100%;
+    align-content: center;
+    color:white
+}
+.p{
+    color:#0d0e0d
+}
